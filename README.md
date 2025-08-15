@@ -1,4 +1,4 @@
-# 💜 Hello there, I'm Zallih
+# 💜 Hello there, I'm Zally
 
 <div>
 <img align="right" alt="zallih" width="150" src="https://github.com/zallih/Images/blob/main/zally.png?raw=true">
