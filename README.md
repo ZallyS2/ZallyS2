@@ -58,6 +58,13 @@
       <td><a href="https://poke-dex-zeta.vercel.app/">Link</a></td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Minimal-API</td>
+      <td>API miniminal in C#/.NET</td>
+      <td><a href="https://github.com/ZallyS2/minimal-api">Link</a></td>
+      <td>✅ Completed</td>
+    </tr>
+    
   </tbody>
 </table>
 
