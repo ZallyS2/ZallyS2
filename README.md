@@ -80,7 +80,7 @@
 
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zallih&theme=tokyonight&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ZallyS2&theme=tokyonight&no-bg=true" />
 
 ![snake gif](https://github.com/zallih/zallih/blob/output/github-contribution-grid-snake.svg)
 
