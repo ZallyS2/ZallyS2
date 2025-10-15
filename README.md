@@ -22,51 +22,6 @@
     <a href="https://wa.me/5511981642627"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/laila-zappiello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br />
-    <h3>💜 Main projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Link</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>RPG Souls Like</td>
-      <td>A souls like unity RPG game</td>
-      <td><a href="https://github.com/zallih/Souls-Like">Link</a></td>
-      <td>🚧 In Progress</td> 
-    </tr>
-    <tr>
-      <td>Mocchi</td>
-      <td>Platform game at Godot</td>
-      <td><a href="https://github.com/zallih/Mocchi">Link</a></td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Portfolio</td>
-      <td>Portfolio in angular</td>
-      <td><a href="https://portfolio-zallih.vercel.app/">Link</a></td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Pokedex</td>
-      <td>Pokedex in angular</td>
-      <td><a href="https://poke-dex-zeta.vercel.app/">Link</a></td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Minimal-API</td>
-      <td>API miniminal in C#/.NET</td>
-      <td><a href="https://github.com/ZallyS2/minimal-api">Link</a></td>
-      <td>✅ Completed</td>
-    </tr>
-    
-  </tbody>
-</table>
 
 <br />
 <div>
