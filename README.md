@@ -3,7 +3,7 @@
 <div>
 <img align="right" alt="zallih" width="150" src="https://github.com/zallih/Images/blob/main/zally.png?raw=true">
   
-- 💻 My name is Laila Zappello and I'm 18 years old <br>
+- 💻 My name is Laila Zappello and I'm 19 years old <br>
 - 👩🏽‍💻 I'm currently studying game creation and backend in C#<br>
 - 📖 Graduated in Electronics at Etec Presidente Vargas <br> 
 - 🎮 Studying computer science at <a href= "https://estacio.br/">Estácio</a>
