@@ -6,7 +6,7 @@
 - 💻 My name is Laila Zappello and I'm 18 years old <br>
 - 👩🏽‍💻 I'm currently studying game creation and backend in C#<br>
 - 📖 Graduated in Electronics at Etec Presidente Vargas <br> 
-- 🎮 Studying Digital Games at <a href= "https://portal.anhembi.br/">Anembi Morumbi</a>
+- 🎮 Studying computer science at <a href= "https://estacio.br/">Estácio</a>
 </div>
 <div>
     <h3>💜 Skills</h3>
