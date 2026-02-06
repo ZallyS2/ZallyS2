@@ -29,8 +29,6 @@
 
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZallyS2&theme=tokyonight&no-bg=true" />
-
 ![snake gif](https://github.com/ZallyS2/ZallyS2/blob/output/github-contribution-grid-snake.svg)
 
 </div>
