@@ -1,7 +1,7 @@
 # 💜 Hello there, I'm Zally
 
 <div>
-<img align="right" alt="zallih" width="150" src="https://github.com/zallih/Images/blob/main/zally.png?raw=true">
+<img align="right" alt="zallih" width="150" src="https://github.com/ZallyS2/Images/blob/main/perfil.png?raw=true">
   
 - 💻 My name is Laila Zappello and I'm 19 years old <br>
 - 👩🏽‍💻 I'm currently studying game creation and backend in C#<br>
